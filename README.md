@@ -1,10 +1,10 @@
-# Santiago | Ingeniero de Sistemas en formación
+# 🌟 Santiago | Ingeniero de Sistemas en formación
 
 Hola! Soy **Santiago**, estudiante de Ingeniería de Sistemas en la Universidad de Antioquia. Me apasiona diseñar, construir y mejorar sistemas de software que aporten valor real. Combino el pensamiento lógico con la creatividad para desarrollar soluciones eficientes, éticas y sostenibles.
 
 ---
 
-## Áreas de interés
+## 🎯 Áreas de interés
 
 - Desarrollo de software (Java, React, Spring Boot)  
 - Inteligencia Artificial aplicada (PageRank, procesamiento de datos, Dask)  
@@ -14,27 +14,27 @@ Hola! Soy **Santiago**, estudiante de Ingeniería de Sistemas en la Universidad 
 
 ---
 
-## Proyectos destacados
+## 🚀 Proyectos destacados
 
-### **Sistemas académicos**  
+### 📚 **Sistemas académicos**  
 - Aplicación Java MVC para gestión de planes de estudio.  
 - Manejo de Pénsum, control de prerrequisitos, cálculo de promedios ponderados.  
 
-### **Lógica digital aplicada y paralelismo**  
+### ⚡ **Lógica digital aplicada y paralelismo**  
 - Implementación de PageRank paralelizado con **Dask** y su análisis de rendimiento.  
 
-### **Videojuegos en Arduino**  
+### 🎮 **Videojuegos en Arduino**  
 - Juego arcade inspirado en Star Wars: pantalla OLED, joystick, sonido, reutilización de componentes.  
 
-### **Estructuras de Datos y Recursividad**  
+### 🌳 **Estructuras de Datos y Recursividad**  
 - Implementación y análisis de árboles binarios, búsqueda y recorrido recursivo.  
 
-### **E-commerce de mascotas**  
+### 🐾 **E-commerce de mascotas**  
 - Desarrollo de tienda virtual para venta de productos de mascotas: catálogo, carrito, pagos y gestión de inventario.  
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 - **Lenguajes:** Java, Python, SQL  
 - **Frameworks:** Spring Boot, React, Vite  
@@ -43,7 +43,7 @@ Hola! Soy **Santiago**, estudiante de Ingeniería de Sistemas en la Universidad 
 
 ---
 
-## Valores que me definen
+## 💡 Valores que me definen
 
 - **Aprendizaje constante**: Siempre abierto a nuevos retos y tecnologías.  
 - **Ética profesional**: Desarrollar software responsable y de impacto positivo.  
@@ -52,12 +52,12 @@ Hola! Soy **Santiago**, estudiante de Ingeniería de Sistemas en la Universidad 
 
 ---
 
-### Conecta conmigo
+### 🔗 Conecta conmigo
 
-- Email: [agrega tu email]  
-- LinkedIn: [agrega tu LinkedIn]  
-- GitHub: [agrega tu GitHub]  
+- 📧 Email: **spalacioc05@gmail.com**  
+- 💼 LinkedIn: [Santiago Palacio Cárdenas](https://www.linkedin.com/in/santiago-palacio-c%C3%A1rdenas-092244260/)  
+- 🖥️ GitHub: [spalacioc05](https://github.com/spalacioc05)  
 
 ---
 
-Gracias por visitar mi perfil 🚀
+Gracias por visitar mi perfil 🙌 🚀
